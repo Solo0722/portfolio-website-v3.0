@@ -19,17 +19,20 @@ export const dmSans = DM_Sans({
   subsets: ["latin"],
   style:["italic","normal"],
   variable: "--font-dmSans",
+  display:"swap",
 });
 
 export const sacramento = Sacramento({
   weight: '400',
   subsets: ['latin'],
-  variable:"--font-sacramento"
+  variable: "--font-sacramento",
+  display:"swap",
 })
 export const sofia = Sofia({
   weight: "400",
   subsets: ["latin"],
   variable: "--font-sofia",
+  display: "swap",
 });
 
 
